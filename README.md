@@ -66,9 +66,5 @@ Prediction: Acquired / Closed
 
 Confidence Percentage
 
-🔷 STEP 6: ADD GITHUB LINK TO RESUME
 
-Add like this:
 
-GitHub:
-https://github.com/your-userna
